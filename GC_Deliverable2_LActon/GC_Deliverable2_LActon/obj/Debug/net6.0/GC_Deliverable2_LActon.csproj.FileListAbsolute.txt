@@ -1,0 +1,14 @@
+C:\Users\twoye\source\repos\actonlauren\GC_Deliverable2_LActon\GC_Deliverable2_LActon\GC_Deliverable2_LActon\bin\Debug\net6.0\GC_Deliverable2_LActon.exe
+C:\Users\twoye\source\repos\actonlauren\GC_Deliverable2_LActon\GC_Deliverable2_LActon\GC_Deliverable2_LActon\bin\Debug\net6.0\GC_Deliverable2_LActon.deps.json
+C:\Users\twoye\source\repos\actonlauren\GC_Deliverable2_LActon\GC_Deliverable2_LActon\GC_Deliverable2_LActon\bin\Debug\net6.0\GC_Deliverable2_LActon.runtimeconfig.json
+C:\Users\twoye\source\repos\actonlauren\GC_Deliverable2_LActon\GC_Deliverable2_LActon\GC_Deliverable2_LActon\bin\Debug\net6.0\GC_Deliverable2_LActon.dll
+C:\Users\twoye\source\repos\actonlauren\GC_Deliverable2_LActon\GC_Deliverable2_LActon\GC_Deliverable2_LActon\bin\Debug\net6.0\GC_Deliverable2_LActon.pdb
+C:\Users\twoye\source\repos\actonlauren\GC_Deliverable2_LActon\GC_Deliverable2_LActon\GC_Deliverable2_LActon\obj\Debug\net6.0\GC_Deliverable2_LActon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\twoye\source\repos\actonlauren\GC_Deliverable2_LActon\GC_Deliverable2_LActon\GC_Deliverable2_LActon\obj\Debug\net6.0\GC_Deliverable2_LActon.AssemblyInfoInputs.cache
+C:\Users\twoye\source\repos\actonlauren\GC_Deliverable2_LActon\GC_Deliverable2_LActon\GC_Deliverable2_LActon\obj\Debug\net6.0\GC_Deliverable2_LActon.AssemblyInfo.cs
+C:\Users\twoye\source\repos\actonlauren\GC_Deliverable2_LActon\GC_Deliverable2_LActon\GC_Deliverable2_LActon\obj\Debug\net6.0\GC_Deliverable2_LActon.csproj.CoreCompileInputs.cache
+C:\Users\twoye\source\repos\actonlauren\GC_Deliverable2_LActon\GC_Deliverable2_LActon\GC_Deliverable2_LActon\obj\Debug\net6.0\GC_Deliverable2_LActon.dll
+C:\Users\twoye\source\repos\actonlauren\GC_Deliverable2_LActon\GC_Deliverable2_LActon\GC_Deliverable2_LActon\obj\Debug\net6.0\refint\GC_Deliverable2_LActon.dll
+C:\Users\twoye\source\repos\actonlauren\GC_Deliverable2_LActon\GC_Deliverable2_LActon\GC_Deliverable2_LActon\obj\Debug\net6.0\GC_Deliverable2_LActon.pdb
+C:\Users\twoye\source\repos\actonlauren\GC_Deliverable2_LActon\GC_Deliverable2_LActon\GC_Deliverable2_LActon\obj\Debug\net6.0\GC_Deliverable2_LActon.genruntimeconfig.cache
+C:\Users\twoye\source\repos\actonlauren\GC_Deliverable2_LActon\GC_Deliverable2_LActon\GC_Deliverable2_LActon\obj\Debug\net6.0\ref\GC_Deliverable2_LActon.dll
